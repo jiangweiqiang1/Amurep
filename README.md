@@ -1,2 +1,3 @@
 # Amurep
-In this paper, a method Amurep(Adaptively Multi-layer Region Partitioning) is presented, for adaptively aggregating POIs into multi-layer POI groups to improves recommendation performance. Specifically, POI groups in multi-scales are learned to constrain the range of recommended next POI.
+In this paper, a method Amurep(Adaptively Multi-layer Region Partitioning) is presented, for adaptively aggregating POIs into multi-layer POI groups to improves recommendation performance. Specifically, POI groups in multi-scales are learned to constrain the range of recommended next POI. In addition, for better capturing users’ dynamic requirements, high-order information, such as multi-hop relations of POIs within user check-in trajectories, are used. In the end, extensive experiments are conducted on two real-world datasets to show that Amurep outperforms the state-of-the-art methods to the best of our knowledge and the learned POI groups are also interpretable.
+
