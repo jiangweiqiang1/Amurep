@@ -1,0 +1,12 @@
+numpy==1.19.2 -i https://pypi.tuna.tsinghua.edu.cn/simple
+tqdm==4.58.0 -i https://pypi.tuna.tsinghua.edu.cn/simple
+pandas==1.1.5 -i https://pypi.tuna.tsinghua.edu.cn/simple
+prettytable==2.0.0 -i https://pypi.tuna.tsinghua.edu.cn/simple
+matplotlib==3.3.4 -i https://pypi.tuna.tsinghua.edu.cn/simple
+scipy==1.6.1 -i https://pypi.tuna.tsinghua.edu.cn/simple
+torch_summary==1.4.5 -i https://pypi.tuna.tsinghua.edu.cn/simple
+data==0.4 -i https://pypi.tuna.tsinghua.edu.cn/simple
+PyYAML==6.0 -i https://pypi.tuna.tsinghua.edu.cn/simple
+scikit_learn==1.0.2 -i https://pypi.tuna.tsinghua.edu.cn/simple
+networkx==2.5 -i https://pypi.tuna.tsinghua.edu.cn/simple
+torchsummary==1.5.1 -i https://pypi.tuna.tsinghua.edu.cn/simple
