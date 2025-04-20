@@ -9,5 +9,16 @@ torch_summary==1.4.5
 networkx==2.5  
 torchsummary==1.5.1  
 # Data
-123
+The data is from two global datasets, available at websites https://snap.stanford.edu/data/loc-gowalla.html（gowalla dataset） and https://sites.google.com/site/yangdingqi/home（gowalla dataset）. For detailed preprocessing steps, refer to the data preprocessing section of the paper.
+# Training
+python main.py
+# Citation
+If you use our code, please kindly cite:
+<marquee>@inproceedings{jiang2025amurep,
+  title = {Amurep: Adaptively Multi-layer Region Partitioning for Next POI Recommendation},
+  author = {Jiang, Weiqiang and Wang, Yan and Liu, Lijuan and Zhu, Shunzhi},
+  booktitle = {Proceedings of the 2025 International Joint Conference on Neural Networks (IJCNN)},
+  year = {2025}
+}
+</marquee>
 
