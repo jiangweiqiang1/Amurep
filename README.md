@@ -26,18 +26,7 @@ If you use our code, please kindly cite:
 }
       </pre>
     </div>
-    <div style="flex: 1; text-align: center; padding: 20px;">
-      <!-- You can place another reference or text here if needed -->
-      <p>Another sliding content here if needed.</p>
-    </div>
   </div>
 </div>
-
-<style>
-  @keyframes slide {
-    0% { transform: translateX(0); }
-    100% { transform: translateX(-100%); }
-  }
-</style>
 
 
