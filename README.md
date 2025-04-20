@@ -13,12 +13,31 @@ The data is from two global datasets, available at websites https://snap.stanfor
 # Training
 python main.py
 # Citation
-If you use our code, please kindly cite:
-<marquee>@inproceedings{jiang2025amurep,
+If you use our code, please kindly cite:  
+<div style="overflow: hidden; width: 100%; position: relative;">
+  <div style="display: flex; animation: slide 10s infinite;">
+    <div style="flex: 1; text-align: center; padding: 20px;">
+      <pre>
+@inproceedings{jiang2025amurep,
   title = {Amurep: Adaptively Multi-layer Region Partitioning for Next POI Recommendation},
   author = {Jiang, Weiqiang and Wang, Yan and Liu, Lijuan and Zhu, Shunzhi},
   booktitle = {Proceedings of the 2025 International Joint Conference on Neural Networks (IJCNN)},
   year = {2025}
 }
-</marquee>
+      </pre>
+    </div>
+    <div style="flex: 1; text-align: center; padding: 20px;">
+      <!-- You can place another reference or text here if needed -->
+      <p>Another sliding content here if needed.</p>
+    </div>
+  </div>
+</div>
+
+<style>
+  @keyframes slide {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+  }
+</style>
+
 
